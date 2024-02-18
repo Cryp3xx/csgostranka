@@ -1,0 +1,15 @@
+body {
+    margin:0;
+    background-image: url('https://bc-gb.com/wp-content/uploads/2016/10/csgo-logo-wallpapers-14.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+p {
+    justify-content:center;
+    display:flex;
+    color:white;
+    font-size:xx-large;
+    font-weight: bold
+}
+
